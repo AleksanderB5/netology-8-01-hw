@@ -37,7 +37,7 @@
 
 ## Модуль: Введение в DevOps
 
-1. [Git](https://github.com/netology-code/sdvps-homeworks/blob/main/8-01.md).
+1. [Git - Blinov A.S.](https://github.com/netology-code/sdvps-homeworks/blob/main/8-01.md).
 
 2. [Что такое DevOps. CI/CD](https://github.com/netology-code/sdvps-homeworks/blob/main/8-02.md).
 
